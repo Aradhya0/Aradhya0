@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aradhya0
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning js
+- 👀 I’m interested in web development and app development.
+- 🌱 I’m currently learning to live.
 - 📫 How to reach me aradhyasaumay21@gmail.com
 
 <!---
