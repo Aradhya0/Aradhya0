@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Aradhya0
-- 👀 I’m interested in web development and app development.
-- 🌱 I’m currently learning to live.
+- 👋 Hi, I’m Aradhya Kumar
+- 👀 I’m interested in web development and data analytics.
+- 🌱 I’m currently learning ReactJS.
 - 📫 How to reach me aradhyasaumay21@gmail.com
 
 <!---
