@@ -1,12 +1,4 @@
-- 👋 Hi, I’m Aradhya Kumar
-- 👀 I’m interested in web development and data analytics.
-- 🌱 I’m currently learning ReactJS.
-- 📫 How to reach me aradhyasaumay21@gmail.com
 
-<!---
-Aradhya0/Aradhya0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> 
 <h1 align="center">Hi 👋, I'm Aradhya Kumar</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
