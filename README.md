@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I tend to hide my feelings using sarcasm.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
 <a href="https://linkedin.com/in/aradhyakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aradhyakumar" height="30" width="40" /></a>
 <a href="https://fb.com/aradhyasaumay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aradhyasaumay" height="30" width="40" /></a>
 <a href="https://instagram.com/aradhyasaumay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aradhyasaumay" height="30" width="40" /></a>
