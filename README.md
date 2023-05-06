@@ -24,7 +24,7 @@
 <a href="https://www.leetcode.com/aradhyasaumay21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aradhyasaumay21" height="30" width="40" /></a>
 </p>
 <p align="left">
-  
+  <html><script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script><html/>
   <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="aradhya-kumar-84078a21b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/aradhya-kumar-84078a21b?trk=profile-badge">ARADHYA KUMAR</a></div>
               
   
