@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aradhya Kumar</h1>
-<h3 align="center">A passionate Frontend developer from India.</h3>
-
+<h3 align="center">A passionate Frontend developer from India who is striving to learn and do better.</h3>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aradhya0&label=Profile%20views&color=0e75b6&style=flat" alt="aradhya0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aradhya0" alt="aradhya0" /></a> </p>
