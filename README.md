@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Newext - A project on creating a social news platform.**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Power BI**
 
 - 📫 How to reach me **aradhyasaumay21@gmail.com**
 
